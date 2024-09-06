@@ -20,6 +20,7 @@ OpenAI Whisper model supports transcription in multiple languages and is capable
 | large-v2  | 1550 M     |      x        |      ✓       |
 | large-v3  | 1550 M     |      x        |      ✓       |
 
+## Source : <a href="https://huggingface.co/openai/whisper-large-v3">Click here</a>
 
 ## Why Use Whisper large-v3 ?
 - **Multilingual Speech Recognition**: Extract text from audio in multiple languages without needing separate models for each language.
