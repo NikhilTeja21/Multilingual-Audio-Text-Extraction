@@ -1,4 +1,4 @@
-# Video2Text-openai-whisper
+# Speech-Recognition-openai-whisper
 OpenAI's Whisper model, specifically the large-v3 variant, is a powerful transformer-based architecture for automatic speech recognition (ASR) and multilingual language support.
 
 ## Features :
