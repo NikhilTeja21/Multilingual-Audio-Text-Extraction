@@ -1,5 +1,6 @@
-# Speech-Recognition-openai-whisper
+# Multilingual-Audio-Text-extraction-openai-whisper
 OpenAI's Whisper model, specifically the large-v3 variant, is a powerful transformer-based architecture for automatic speech recognition (ASR) and multilingual language support.
+OpenAI Whisper model supports transcription in multiple languages and is capable of recognizing and extracting text in 99 languages. The multilingual capabilities allow it to handle audio files in a diverse set of languages, making it a powerful tool for speech-to-text tasks across global languages.
 
 ## Features :
 - **Multilingual Support**: Whisper's large-v3 model supports text extraction from audio in various languages, making it suitable for global applications.
